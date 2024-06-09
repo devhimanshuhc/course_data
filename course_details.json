@@ -9,7 +9,7 @@
     "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
     "location": "Online",
     "prerequisites": "None",
-    "likes": 507,
+    "likes": "507",
     "syllabus": [
       {
         "title": "Week 1: Introduction to Python",
@@ -47,7 +47,7 @@
     "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
     "location": "Campus",
     "prerequisites": "Introduction to Programming",
-    "likes": 1.4k,
+    "likes": "1.4k",
     "syllabus": [
       {
         "title": "Week 1: Introduction to Data Structures",
@@ -85,7 +85,7 @@
     "schedule": "Saturdays, 9:00 AM - 12:00 PM",
     "location": "Online",
     "prerequisites": "None",
-    "likes": 117,
+    "likes": "117",
     "syllabus": [
       {
         "title": "Week 1: Introduction to HTML",
@@ -122,7 +122,7 @@
     "duration": "10 weeks",
     "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
     "location": "Online",
-    "likes": 44,
+    "likes": "44",
     "prerequisites": "Introduction to Programming, Basic Statistics",
     "syllabus": [
       {
@@ -161,7 +161,7 @@
     "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
     "location": "Campus",
     "prerequisites": "None",
-    "likes": 2.7k,
+    "likes": "2.7k",
     "syllabus": [
       {
         "title": "Week 1: Introduction to Databases",
