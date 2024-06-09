@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "url": "https://assets.telegraphindia.com/telegraph/2022/Mar/1647575151_resized-pic23.jpg",
     "courseName": "Introduction to Programming",
     "instructor": "John Smith",
     "description": "Learn the fundamentals of programming using Python. This course is suitable for beginners with no prior coding experience.",
@@ -39,6 +40,7 @@
   },
   {
     "id": 2,
+    "url": "https://miro.medium.com/v2/resize:fit:1024/1*lGUL34nZvS3gXv4LNAKG3Q.jpeg",
     "courseName": "Data Structures and Algorithms",
     "instructor": "Emily Johnson",
     "description": "Learn about fundamental data structures and algorithms used in computer science. This course covers topics like arrays, linked lists, stacks, queues, trees, and sorting algorithms.",
@@ -77,6 +79,7 @@
   },
   {
     "id": 3,
+    "url": "https://i.insider.com/6019ac40ee136f00183a9de1?width=700",
     "courseName": "Web Development Fundamentals",
     "instructor": "Michael Brown",
     "description": "Learn the basics of web development, including HTML, CSS, and JavaScript. This course will teach you how to create responsive and interactive websites.",
@@ -115,6 +118,7 @@
   },
   {
     "id": 4,
+    "url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg",
     "courseName": "Machine Learning for Beginners",
     "instructor": "Sarah Wilson",
     "description": "This course will introduce you to the fundamentals of machine learning. You'll learn about supervised and unsupervised learning techniques, and how to build and evaluate machine learning models.",
@@ -153,6 +157,7 @@
   },
   {
     "id": 5,
+    "url":"https://www.openlogic.com/sites/default/files/image/2020-07/image-blog-sql-database.jpg",
     "courseName": "Database Management Systems",
     "instructor": "David Thompson",
     "description": "Learn about relational databases, SQL queries, and database design principles. This course covers topics like data modeling, normalization, and transaction management.",
