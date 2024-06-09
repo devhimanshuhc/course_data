@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "courseName": "Introduction to Programming",
     "instructor": "John Smith",
     "description": "Learn the fundamentals of programming using Python. This course is suitable for beginners with no prior coding experience.",
@@ -36,6 +37,7 @@
     ]
   },
   {
+    "id": 2,
     "courseName": "Data Structures and Algorithms",
     "instructor": "Emily Johnson",
     "description": "Learn about fundamental data structures and algorithms used in computer science. This course covers topics like arrays, linked lists, stacks, queues, trees, and sorting algorithms.",
@@ -72,6 +74,7 @@
     ]
   },
   {
+    "id": 3,
     "courseName": "Web Development Fundamentals",
     "instructor": "Michael Brown",
     "description": "Learn the basics of web development, including HTML, CSS, and JavaScript. This course will teach you how to create responsive and interactive websites.",
@@ -108,6 +111,7 @@
     ]
   },
   {
+    "id": 4,
     "courseName": "Machine Learning for Beginners",
     "instructor": "Sarah Wilson",
     "description": "This course will introduce you to the fundamentals of machine learning. You'll learn about supervised and unsupervised learning techniques, and how to build and evaluate machine learning models.",
@@ -144,6 +148,7 @@
     ]
   },
   {
+    "id": 5,
     "courseName": "Database Management Systems",
     "instructor": "David Thompson",
     "description": "Learn about relational databases, SQL queries, and database design principles. This course covers topics like data modeling, normalization, and transaction management.",
